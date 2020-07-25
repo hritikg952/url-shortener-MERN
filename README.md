@@ -1,6 +1,13 @@
 # url-shortener-MERN
 
-i have made this project using MERN stack
+I have made this project using MERN stack. It is a basic URL shortener something like bit.ly
 
-to start server -> npm run start:dev 
-to run react -> npm start  (in client directory)
+## Run server
+```bash
+ npm run start:dev 
+```
+
+## Run React(in client directory)
+```bash
+ npm start  
+```
